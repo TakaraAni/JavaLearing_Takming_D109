@@ -1,7 +1,6 @@
 class main{
-	//¥D­n¹B¦æ³q³q±q³oÃä¶i¦æ
+	//ä¸»è¦é‹è¡Œé€šé€šå¾é€™é‚Šé€²è¡Œ
 	public static void main(String ar[]) {
 		System.out.println("Hello");
-		System.out.println("test");
 	}
 }
