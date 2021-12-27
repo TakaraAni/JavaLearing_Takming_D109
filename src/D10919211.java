@@ -3,6 +3,11 @@ class D10919211{
 		System.out.println("test for this");
 	}
 	
+	static int Test(int x) {
+		x += x;
+		return x;
+	}
+	
 	static String showMe() {
 		String MyName = "方寶瑜";
 		String StudenID = "D10919211";
